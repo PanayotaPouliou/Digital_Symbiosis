@@ -10,3 +10,5 @@ The script is divided into three sections; preparing, analyzing, and visualizing
 * perplexity(3.0): Perplexity refers to the number of nearest neighbors that isused in order to manifold learning algorithms. Perplexity values outside therange  of  [5.0,50.0],  might  offer  significantly  different  results.  However,  the perplexity  value  in  this  research  is  3.0  due  to  the  limited  amount  of  data[32].
 
 For  visualization  purposes  the  names  of  the  owners  of  the  rooms  are  used for labeling the data. The rooms are represented as single points. Besides the labeling, each point has a different color. The scatter-plots are both in 2D and 3D  axis.  For  a  better  understanding  of  the  results  another  set  of  2D  and  3Dscatter-plot  is  printed,  where  the  points  are  replaced  with  thumbnails  of  therooms.
+
+A project made in collaboration with Sofia Lamda.
